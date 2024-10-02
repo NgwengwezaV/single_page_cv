@@ -58,3 +58,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 If you have any questions or want to reach out, please open an issue in this repository.
+
+## Link To Project Activities
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
